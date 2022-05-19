@@ -1,0 +1,1 @@
+These files are provided as a companion to the book Software Receiver Design. All files are the property of their respective owners, including the authors - Andrew G. Klein, C. Richard Johnson, Jr, and William A. Sethares - and the publisher, Cambridge University Press.
